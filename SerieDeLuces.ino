@@ -59,7 +59,7 @@ string readSerial() {
     return "";
   }
 
-  string text;COM3
+  string text;
 
   while( Serial.available() ) {
 
